@@ -45,5 +45,5 @@ def rps():
             keep_playing = False
         else:
             keep_playing = input('Would you like to keep playing? [y/n]')
-                
+# i proceed with a for loop to manage the number of times one can play at a stretch                
 rps()
